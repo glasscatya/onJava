@@ -1,7 +1,7 @@
 package com.glasscat.Collections;
 
-import com.glasscat.Collections.pets.Pet;
-import com.glasscat.Collections.pets.PetCreator;
+import com.glasscat.reflection.pets.Pet;
+import com.glasscat.reflection.pets.PetCreator;
 
 import java.util.AbstractCollection;
 import java.util.Iterator;
