@@ -1,4 +1,4 @@
-package com.glasscat.Collections;
+package com.glasscat.collections;
 
 import java.util.ArrayList;
 import java.util.Iterator;

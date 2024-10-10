@@ -1,4 +1,4 @@
-package com.glasscat.Collections;
+package com.glasscat.collections;
 
 class Parent<T> {
     public T getValue(T t) {

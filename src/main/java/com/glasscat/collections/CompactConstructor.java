@@ -1,4 +1,4 @@
-package com.glasscat.Collections;
+package com.glasscat.collections;
 
 public class CompactConstructor {
     public static void main(String[] args) {

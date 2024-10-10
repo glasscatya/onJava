@@ -1,4 +1,4 @@
-package com.glasscat.Collections;
+package com.glasscat.collections;
 
 import com.glasscat.reflection.pets.Pet;
 import com.glasscat.reflection.pets.PetCreator;

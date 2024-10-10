@@ -1,4 +1,4 @@
-package com.glasscat.Collections;
+package com.glasscat.collections;
 
 public class RecordTest {
     record Nested(String s) {}
